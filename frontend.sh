@@ -1,2 +1,1 @@
-echo "hello"
-ECHO "BYE"
+echo "hello" "bye"
